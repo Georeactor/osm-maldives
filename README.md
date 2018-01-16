@@ -1,4 +1,6 @@
-# osm-maldives
+# Moved to https://github.com/Georeactor/osm-global
+
+## osm-maldives
 
 OpenStreetMap translation work for Divehi, language of the Maldives
 
